@@ -1,0 +1,19 @@
+{
+  "id": "groove-dice",
+  "name": "Groove Dice",
+  "author": "kim",
+  "repo": "Sunghyun23/kimswork",
+  "kind": "instrument",
+  "license": "MIT",
+  "summary": "Neo-soul and hip-hop drum instrument with one-bar groove generation, layered original drums, recorded fills and modular sound packs. Optional Pack Builder for macOS and Windows creates your own .gdexp packs. Requires MPC OS 3.10.1 or later.",
+  "style": "drum-machine",
+  "tags": [
+    "drums",
+    "groove",
+    "sampler"
+  ],
+  "min_os": "3.10.1",
+  "homepage": "https://kimswork.app/plugins/groove-dice/",
+  "screenshot": "https://raw.githubusercontent.com/Sunghyun23/kimswork/8b37090df8096f42b8b296b5a60f2dfb1d9c90ac/mpc-software/plugins/public/GrooveDice/design/device-1.6.0/triplet-main-final.png",
+  "asset_pattern": "groove-dice-*-mpc-armv7.zip"
+}
